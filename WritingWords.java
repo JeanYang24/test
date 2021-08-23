@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//Github测试修改
 
 public class WritingWords {
     public static int write(String word)
