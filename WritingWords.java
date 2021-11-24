@@ -15,6 +15,7 @@ public class WritingWords {
         return sum;
     }
 
+    //source tree 测试
     static int counting(char ch)
     {
         switch (ch){
